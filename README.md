@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marek Korczak
+👋 Hi, I’m Marek Korczak
 - 👀 I’m interested in frontend development and general programming
 - 🌱 I’m currently learning React, TypeScript, Docker
 

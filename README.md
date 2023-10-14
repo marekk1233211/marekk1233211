@@ -1,4 +1,8 @@
+# Thanks for visiting my GitHub Profile !
+
+&nbsp;
 👋 Hi, I’m Marek Korczak
+
 - 👀 I’m interested in frontend development and general programming
 - 🌱 I’m currently learning React, TypeScript, Docker and also Testing applications !
 

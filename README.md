@@ -31,6 +31,18 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+&nbsp;
+
+## 💬 Contact
+
+&nbsp;
+
+If you have any questions do not hesitate and ask me:
+
+![mail Badge](https://img.shields.io/badge/-mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white) marekkorczakprogramowanie@gmail.com
+
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white) [https://www.linkedin.com/in/marek-korczak-913210285/](https://www.linkedin.com/in/marek-korczak-913210285/)
+
 <!---
 marekk1233211/marekk1233211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

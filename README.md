@@ -6,13 +6,13 @@
 
 #### My roadmap to becoming a programmer is as follows:
 
-1. :thumbsup: I have acquired fundamental programming skills in C, C++, and C# during my schooling and university studies.
-2. :thumbsup: I have delved into fundamental programming skills in C++, JavaScript while working in the role of an automation engineer.
-3. :thumbsup: I have covered the basic frontend development skills including HTML, CSS, Sass, JavaScript, React, and Git through courses at Samuraj Programowania and kodilla.
-4. :thumbsup: I gained a foundation in backend development using Node.js and Express while working on my own project, EduBuddy.
-5. :thumbsup: Presently, I'm in the process of familiarizing myself with the fundamental concepts of programming in Java, Java OOP, MySQL, Cucumber, SeleniumWebDriver, Postman, SoapUI, and manual testing through a course at Coders Lab.
+:thumbsup: I have acquired fundamental programming skills in C, C++, and C# during my schooling and university studies.
+:thumbsup: I have delved into fundamental programming skills in C++, JavaScript while working in the role of an automation engineer.
+:thumbsup: I have covered the basic frontend development skills including HTML, CSS, Sass, JavaScript, React, and Git through courses at Samuraj Programowania and kodilla.
+:thumbsup: I gained a foundation in backend development using Node.js and Express while working on my own project, EduBuddy.
+:thumbsup: Presently, I'm in the process of familiarizing myself with the fundamental concepts of programming in Java, Java OOP, MySQL, Cucumber, SeleniumWebDriver, Postman, SoapUI, and manual testing through a course at Coders Lab.
 
-- 👀 I’m interested in frontend development the most, but I am looking opportunities to develop applications also in the backend because it's so fun !
+👀 I’m interested in frontend development the most, but I am looking opportunities to develop applications also in the backend because it's so fun !
 
 &nbsp;
 

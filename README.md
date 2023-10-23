@@ -35,19 +35,19 @@
 Check my projects:
 &nbsp;
 
-<h3>StudyHub website</h3>
+<h2>StudyHub website</h2>
 &nbsp;
 - frontend solution URL: (https://github.com/marekk1233211/StudyHub)
 - backend solution URL: (https://github.com/marekk1233211/StudyHub-api)
 
 - Live URL site: (https://studyhub-rmr6.onrender.com)
 &nbsp;
-<h3>React projects</h3>
+<h2>React projects</h2>
 &nbsp;
-<h2>Pizzeria website</h2>
+<h3>Pizzeria website</h3>
 - solution URL:(https://github.com/marekk1233211/projekt1pizzeria)
 &nbsp;
-<h2>Portfolio website</h2>
+<h3>Portfolio website</h3>
 - solution URL: (https://github.com/marekk1233211/projekt0portfolio)
   &nbsp;
 

@@ -44,7 +44,6 @@ Check my projects:
 - Live URL site: (https://studyhub-rmr6.onrender.com)
 &nbsp;
 <h2>React projects</h2>
-&nbsp;
 <h3>Pizzeria website</h3>
 - solution URL:(https://github.com/marekk1233211/projekt1pizzeria)
 &nbsp;

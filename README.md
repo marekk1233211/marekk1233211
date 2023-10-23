@@ -32,6 +32,24 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 &nbsp;
+Check my projects:
+&nbsp;
+
+<h3>StudyHub website</h3>
+&nbsp;
+- frontend solution URL: (https://github.com/marekk1233211/StudyHub)
+- backend solution URL: (https://github.com/marekk1233211/StudyHub-api)
+
+- Live URL site: (https://studyhub-rmr6.onrender.com)
+&nbsp;
+<h3>React projects</h3>
+&nbsp;
+<h2>Pizzeria website</h2>
+- solution URL:(https://github.com/marekk1233211/projekt1pizzeria)
+&nbsp;
+<h2>Portfolio website</h2>
+- solution URL: (https://github.com/marekk1233211/projekt0portfolio)
+  &nbsp;
 
 ## 💬 Contact
 

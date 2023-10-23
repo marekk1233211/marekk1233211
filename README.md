@@ -38,6 +38,7 @@ Check my projects:
 <h2>StudyHub website</h2>
 &nbsp;
 - frontend solution URL: (https://github.com/marekk1233211/StudyHub) <br>
+&nbsp;
 - backend solution URL: (https://github.com/marekk1233211/StudyHub-api)
 
 - Live URL site: (https://studyhub-rmr6.onrender.com)

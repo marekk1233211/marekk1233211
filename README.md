@@ -35,10 +35,18 @@
 Check my projects:
 &nbsp;
 
+<h2>WebWatchTower website</h2>
+&nbsp;
+- frontend solution URL: (https://github.com/marekk1233211/WebWatchTower) <br>
+&nbsp;
+- backend solution URL: (https://github.com/marekk1233211/WebWatchTowerBackend)
+
+- Live URL site: (https://webwatchtower.onrender.com/)
+&nbsp;
 <h2>StudyHub website</h2>
 &nbsp;
 - frontend solution URL: (https://github.com/marekk1233211/StudyHub) <br>
-&nbsp;
+  &nbsp;
 - backend solution URL: (https://github.com/marekk1233211/StudyHub-api)
 
 - Live URL site: (https://studyhub-rmr6.onrender.com)
